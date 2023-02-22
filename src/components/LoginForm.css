@@ -1,0 +1,38 @@
+
+.container {
+    margin-top: 100px;
+    border: 1px solid rgb(110, 110, 110);
+    padding: 30px 40px;
+    background-color:#7a5f5f45;
+    border-radius: 10px;
+    box-shadow: 5px 20px 20px rgba(0, 0, 0, 0.25);
+    width: 400px;
+    height: 400px; 
+}
+
+label {
+    font-size: large;
+}
+.heading{
+    margin-left: 100px;
+    text-decoration:  underline 0.01px grey;
+    font-weight: 1000;
+    font-size:30px;
+    margin-bottom: 20px;
+}
+span {
+    color: red;
+    font-size: small;
+}
+
+.submitButton{
+    background-color:#85c2e7;
+    width: 90px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+.submitButton:hover {
+    color: aliceblue;
+}

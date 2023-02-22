@@ -1,0 +1,36 @@
+.homepage{
+    width: 100%;
+    background-color: rgb(91, 93, 95);
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    border: 5px solid rgb(101, 109, 84);
+    
+}
+
+.body-2{
+ background-color: rgb(255, 254, 254);
+ margin-top: 10px;
+}
+
+.title-head{
+   height: 60px;
+    padding: 0;
+    margin: 0;
+  
+   
+}
+.date {
+    font-size: 20px;
+}
+.NoPost {
+    margin-top: 350px;
+    margin-left: 800px;
+    color: rgb(247, 245, 245);
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#Heading {
+    font-size: 50px; 
+}

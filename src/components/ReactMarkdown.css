@@ -1,0 +1,90 @@
+ @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  
+}
+
+ body {
+  background: rgb(240, 235, 235);
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+.Editor  {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Heading {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.TextArea {
+  width: 40vw;
+  height: 500px;
+  background: rgb(241, 239, 239);
+  border-radius: 5px;
+  outline: none;
+  padding: 10px;
+  font-size: 40px;
+  /* border: 2px solid black; */
+  margin-left: 20px;
+}
+
+.btn{
+  width: 100px;
+  margin-left: 800px;
+}
+.output {
+  color: grey;
+  width: 40vw;
+  height: 500px;
+  background: rgb(241, 239, 239);
+  margin-left: 55px;
+  border-radius: 5px;
+  outline: none;
+  /* border: 2px solid black; */
+}
+
+h1 h2 h3 h4 h5 h6{
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bolder;
+}
+
+h2 {
+  font-size: 45px;
+  font-weight: bolder;
+}
+h3 {
+  font-size: 40px;
+  font-weight: bolder;
+}
+h4 {
+  font-size: 35px;
+  font-weight: bolder;
+}
+h5 {
+  font-size: 30px;
+  font-weight: bolder;
+}
+a {
+  color: blue;
+  text-decoration: underline;
+} 
+
+p {
+  font-size: 40px;
+}
